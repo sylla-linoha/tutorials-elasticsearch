@@ -1,5 +1,5 @@
 # Financial Websocket Data
-See YouTube video [here]()
+See YouTube video [here](https://www.youtube.com/watch?v=KjIlUYdg0hA)
 
 
 ## SETUP FOR TUTORIAL
